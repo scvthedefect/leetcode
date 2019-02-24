@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.within100;
+package cn.lawrence.leetcode.solution;
 
 public class No021MergeTwoSortedLists {
     

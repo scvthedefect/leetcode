@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.within100;
+package cn.lawrence.leetcode.solution;
 
 public class ListNode {
     int val;
@@ -13,7 +13,7 @@ public class ListNode {
         node.output();
     }
     
-    ListNode(int...vals) {
+    public ListNode(int...vals) {
         ListNode prev = null;
         for(int i = 0; i < vals.length; i++) {
             int v = vals[i];
@@ -46,5 +46,21 @@ public class ListNode {
         
         System.out.println();
         
+    }
+
+    public int getVal() {
+        return val;
+    }
+
+    public void setVal(int val) {
+        this.val = val;
+    }
+
+    public ListNode getNext() {
+        return next;
+    }
+
+    public void setNext(ListNode next) {
+        this.next = next;
     }
 }

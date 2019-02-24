@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.within100;
+package cn.lawrence.leetcode.solution;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,6 @@
-package cn.lawrence.leetcode.within100;
+package cn.lawrence.leetcode.solution;
+
+import cn.lawrence.leetcode.utils.ArrayUtil;
 
 public class No026RemoveDuplicates {
 
@@ -25,7 +27,7 @@ public class No026RemoveDuplicates {
         Solution026V3 s = new Solution026V3();
         int count = s.removeDuplicates(nums);
         
-        Solution026V2.printArr(nums);
+        ArrayUtil.printArr(nums);
         System.out.println(String.format("output count: %d", count));
         
     }
@@ -122,13 +124,6 @@ class Solution026V2{
         return false;
     }
     
-    public static void printArr(int[] nums) {
-        System.out.print("打印数组：");
-        for(int num : nums) {
-            System.out.print(num);
-        }
-        System.out.println();
-    }
 }
 
 class Solution026V3 {
