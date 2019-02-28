@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.solution;
+package cn.lawrence.leetcode.solution.easy;
 
 import cn.lawrence.leetcode.utils.ArrayUtil;
 

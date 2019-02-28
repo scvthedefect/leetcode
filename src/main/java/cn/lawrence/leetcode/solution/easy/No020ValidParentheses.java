@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.solution;
+package cn.lawrence.leetcode.solution.easy;
 
 import java.util.ArrayList;
 import java.util.List;
