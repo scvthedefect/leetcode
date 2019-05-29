@@ -28,14 +28,6 @@ public class ListNode {
     }
     
     public void output() {
-//        System.out.print(val);
-//        System.out.print(", ");
-//        
-//        if(next != null) {
-//            next.output();
-//        }
-//        System.out.println();
-        
         System.out.print(val + ", ");
         
         ListNode node = this;
