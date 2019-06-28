@@ -13,6 +13,12 @@ public class ListNode {
         node.output();
     }
     
+    private int[] records;
+    
+    public int[] getRecords() {
+        return this.records;
+    }
+    
     public ListNode(int...vals) {
         ListNode prev = null;
         for(int i = 0; i < vals.length; i++) {
@@ -20,6 +26,8 @@ public class ListNode {
             if(i == 0) {
                 this.val = v;
                 prev = this;
+                
+                this.records = vals;
             } else {
                 prev.next = new ListNode(v);
                 prev = prev.next;
