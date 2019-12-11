@@ -51,15 +51,4 @@ public class No572SubtreeOfAnother {
         if(s.val != t.val) return false;
         return isTheSame(s.left, t.left) && isTheSame(s.right, t.right);
     }
-    
-//    public boolean isSubtree(TreeNode s, TreeNode t) {
-//        return isSameTree(s, t, t);
-//    }
-//    
-//    private boolean isSameTree(TreeNode s, TreeNode t, TreeNode ori) {
-//        if(s == null && t == null) return true;
-//        if(s == null || t == null) return false;
-//        if(s.val == t.val && isSameTree(s.left, t.left, ori) && isSameTree(s.right, t.right, ori)) return true;
-//        return isSameTree(s.left, ori, ori) || isSameTree(s.right, ori, ori);
-//    }
 }
