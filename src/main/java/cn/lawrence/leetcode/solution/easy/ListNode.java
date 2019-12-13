@@ -37,11 +37,11 @@ public class ListNode {
     }
     
     public void output() {
-        System.out.print(val + ", ");
+        System.out.print(val);
         
         ListNode node = this;
         while(node.next != null) {
-            System.out.print(node.next.val + ", ");            
+            System.out.print(", " + node.next.val);            
             node = node.next;
         }
         
