@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 翻转二叉树
  */

@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 二叉树的层平均值
  */

@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 public class No530MinAbsDiffInBST {
     
     static No530MinAbsDiffInBST instance = new No530MinAbsDiffInBST();

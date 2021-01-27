@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 二叉搜索树的深度
  */

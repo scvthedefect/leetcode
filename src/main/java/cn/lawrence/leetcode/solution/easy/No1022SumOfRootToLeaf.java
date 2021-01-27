@@ -1,7 +1,6 @@
 package cn.lawrence.leetcode.solution.easy;
 
-import java.util.ArrayList;
-import java.util.List;
+import cn.lawrence.leetcode.common.TreeNode;
 
 public class No1022SumOfRootToLeaf {
 

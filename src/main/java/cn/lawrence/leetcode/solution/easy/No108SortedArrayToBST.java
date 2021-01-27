@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 将已排序数组转换为二叉搜索树（AVL树，平衡因子不超过正负1）
  */

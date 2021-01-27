@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 public class No235LowestCommonAncestorOfBST {
     
     static No235LowestCommonAncestorOfBST sample = new No235LowestCommonAncestorOfBST();

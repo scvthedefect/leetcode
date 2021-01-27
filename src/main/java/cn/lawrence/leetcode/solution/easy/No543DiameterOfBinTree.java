@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 二叉树的直径：任意两点之间的边数的最大值为二叉树的直径
  */

@@ -2,6 +2,8 @@ package cn.lawrence.leetcode.solution.easy;
 
 import java.util.List;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 二叉树是否为镜像
  */

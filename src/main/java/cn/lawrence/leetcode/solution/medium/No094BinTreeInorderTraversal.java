@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Stack;
 
-import cn.lawrence.leetcode.solution.easy.TreeNode;
+import cn.lawrence.leetcode.common.TreeNode;
 
 /**
  * 二叉树的中序遍历（迭代）

@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 /**
  * 两数之和（输入为BST）
  */

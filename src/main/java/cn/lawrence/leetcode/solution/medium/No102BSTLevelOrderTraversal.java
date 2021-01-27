@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import cn.lawrence.leetcode.solution.easy.TreeNode;
+import cn.lawrence.leetcode.common.TreeNode;
 
 /**
  * BST 层次遍历

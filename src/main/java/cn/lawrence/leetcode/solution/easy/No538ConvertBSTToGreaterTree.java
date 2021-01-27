@@ -3,7 +3,8 @@ package cn.lawrence.leetcode.solution.easy;
 import java.util.List;
 import java.util.Stack;
 
-import cn.lawrence.leetcode.solution.easy.TreeNode.Order;
+import cn.lawrence.leetcode.common.TreeNode;
+import cn.lawrence.leetcode.common.TreeNode.Order;
 
 public class No538ConvertBSTToGreaterTree {
     

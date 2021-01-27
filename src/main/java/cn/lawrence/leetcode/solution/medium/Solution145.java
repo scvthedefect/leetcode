@@ -1,8 +1,10 @@
-package cn.lawrence.leetcode.solution.easy;
+package cn.lawrence.leetcode.solution.medium;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
+
+import cn.lawrence.leetcode.common.TreeNode;
 
 public class Solution145 {
     

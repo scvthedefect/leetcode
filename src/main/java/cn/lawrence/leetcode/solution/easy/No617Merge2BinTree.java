@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.TreeNode;
+
 public class No617Merge2BinTree {
 
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
