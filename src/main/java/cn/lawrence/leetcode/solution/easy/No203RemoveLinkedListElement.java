@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.ListNode;
+
 /**
  * 删除链表中等于给定值 val 的所有节点。
  */

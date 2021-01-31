@@ -3,7 +3,7 @@ package cn.lawrence.leetcode.solution.medium;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.lawrence.leetcode.solution.easy.ListNode;
+import cn.lawrence.leetcode.common.ListNode;
 
 /**
  * 两数相加

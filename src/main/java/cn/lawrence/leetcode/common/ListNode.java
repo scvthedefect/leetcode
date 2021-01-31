@@ -1,4 +1,4 @@
-package cn.lawrence.leetcode.solution.easy;
+package cn.lawrence.leetcode.common;
 
 public class ListNode {
     public int val;

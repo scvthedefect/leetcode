@@ -1,6 +1,6 @@
 package cn.lawrence.leetcode.solution.hard;
 
-import cn.lawrence.leetcode.solution.easy.ListNode;
+import cn.lawrence.leetcode.common.ListNode;
 
 public class No023MergeKSortedLists {
     

@@ -2,6 +2,8 @@ package cn.lawrence.leetcode.solution.easy;
 
 import java.util.HashMap;
 
+import cn.lawrence.leetcode.common.ListNode;
+
 public class No141LinkedListCycle {
     
     public static void main(String[] args) {

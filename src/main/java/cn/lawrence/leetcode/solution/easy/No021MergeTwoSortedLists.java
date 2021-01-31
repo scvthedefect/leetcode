@@ -1,5 +1,7 @@
 package cn.lawrence.leetcode.solution.easy;
 
+import cn.lawrence.leetcode.common.ListNode;
+
 public class No021MergeTwoSortedLists {
     
     public static void main(String[] args) {

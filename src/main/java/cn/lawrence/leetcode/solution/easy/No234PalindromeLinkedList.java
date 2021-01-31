@@ -3,6 +3,8 @@ package cn.lawrence.leetcode.solution.easy;
 import java.util.Arrays;
 import java.util.Stack;
 
+import cn.lawrence.leetcode.common.ListNode;
+
 public class No234PalindromeLinkedList {
     
     public static void main(String[] args) {
